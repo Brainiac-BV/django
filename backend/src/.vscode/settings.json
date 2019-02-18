@@ -2,7 +2,7 @@
     //"team.showWelcomeMessage": false,
     "editor.formatOnSave": true,
     "python.linting.pep8Enabled": true,
-    "python.linting.pylintPath": "/home/keith/anaconda3/bin/pylint",
+    "python.linting.pylintPath": "/usr/local/share/miniconda3/bin/pylint",
     "python.linting.pylintArgs": [
         "--load-plugins",
         "pylint_django"
